@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Anaconda-Navigator
+GenericName=Anaconda 
+Comment=Scientific Python Dev Environment
+Exec=bash -c  '/home/zak/anaconda3/bin/anaconda-navigator' 
+Icon=/home/zak/anaconda3/lib/python3.1/site-packages/anaconda_navigator/static/images/anaconda-icon-256x256.png
+StartupNotify=true
+Terminal=false
+MimeType=text/x-python;
+

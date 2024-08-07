@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome Main
+GenericName=Google Chrome Main 
+Comment=Web Browser By Google
+Exec=google-chrome --profile-directory=Default
+Icon=chrome_default.png
+StartupNotify=true
+Terminal=false
